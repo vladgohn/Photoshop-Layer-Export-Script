@@ -56,7 +56,7 @@ For further assistance, please open an issue on the repository or contact suppor
 ## Authors
 
 - **Vlad Gohn** - *Initial work*
-- **Alexandra Henley** - *Contributions*
+- **Aleksandra Henley** - *Contributions*
 
 ## Acknowledgments
 
