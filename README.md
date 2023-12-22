@@ -13,30 +13,29 @@ This script automates the process of exporting each layer in an Adobe Photoshop 
     - Open Adobe Photoshop and load the document containing the layers you wish to export.
     - Navigate to `File` > `Scripts` > `Browse` and select the `PS_Layer_Export.jsx` script to run it.
 
-    ![Browse for Script](path/to/screenshot1.png)
+    ![Browse for Script](screenshots/Screenshot1.png)
 
 2. **Selecting Export Folder**:
     - A dialog will appear asking you to select a folder for the exported images.
-    - Choose the desired folder and click `OK`.
+    - Choose the desired folder and click `Select Folder`.
 
-    ![Select Folder](path/to/screenshot2.png)
+    ![Select Folder](screenshots/Screenshot2.png)
 
 3. **Choosing File Format**:
     - A prompt will ask for the file type you wish to export the layers as (`jpg`, `png`, or `tga`).
     - Enter your choice and click `OK`.
 
-    ![File Format Prompt](path/to/screenshot3.png)
+    ![Export Confirmation](screenshots/Screenshot3.png)
 
 4. **Export Process**:
     - The script will iterate through each layer, turning them on one by one, and save them as the selected file type in the chosen folder.
     - Once complete, a confirmation alert will display the location of the saved files.
 
-    ![Export Confirmation](path/to/screenshot4.png)
 
 5. **Checking Exported Files**:
     - Navigate to the selected folder on your desktop to view the exported images.
 
-    ![Exported Files](path/to/screenshot5.png)
+    ![Exported Files](screenshots/Screenshot4.png)
 
 ## Notes
 
