@@ -1,5 +1,7 @@
 # Photoshop Layer Export Script
 
+![Script Icon](screenshots/icon.png)
+
 This script automates the process of exporting each layer in an Adobe Photoshop document as a separate image file.
 
 ## Prerequisites
@@ -31,11 +33,11 @@ This script automates the process of exporting each layer in an Adobe Photoshop 
     - The script will iterate through each layer, turning them on one by one, and save them as the selected file type in the chosen folder.
     - Once complete, a confirmation alert will display the location of the saved files.
 
+    ![Exported Files](screenshots/Screenshot4.png)
 
 5. **Checking Exported Files**:
     - Navigate to the selected folder on your desktop to view the exported images.
 
-    ![Exported Files](screenshots/Screenshot4.png)
 
 ## Notes
 
@@ -50,3 +52,17 @@ This script automates the process of exporting each layer in an Adobe Photoshop 
 - If the script fails to run, check that you have a document open in Photoshop with available layers.
 
 For further assistance, please open an issue on the repository or contact support.
+
+## Authors
+
+- **Vlad Gohn** - *Initial work*
+- **Alexandra Henley** - *Contributions*
+
+## Acknowledgments
+
+- Special thanks to all contributors and users of this script for their valuable feedback and suggestions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
